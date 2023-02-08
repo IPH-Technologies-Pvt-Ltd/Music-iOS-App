@@ -1,4 +1,5 @@
 <h2>Music App</h2>
+<img src="https://user-images.githubusercontent.com/124572978/217519709-7fd8a0e5-fac2-4670-8d42-39a90a3b1dd4.gif"></img>
 <h5>This is a Music  app in iOS that lets users stream music, create playlists.</h5>
 <h2>Features</h2>
 <h5>* User registration and login</h4>
