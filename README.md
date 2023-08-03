@@ -1,3 +1,8 @@
+# Music Ios App
+[![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://swift.org/)
+[![Ruby](https://img.shields.io/badge/ruby-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=%23CC342D)](https://www.ruby-lang.org/)
+
+
 <h2>Music App</h2>
 <img src="https://user-images.githubusercontent.com/124572978/217519709-7fd8a0e5-fac2-4670-8d42-39a90a3b1dd4.gif"></img>
 <h6>This is a Music  app in iOS that lets users stream music, create playlists.</h6>
